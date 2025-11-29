@@ -67,3 +67,12 @@
             font-size: 20px;
             margin-bottom: 5px;
          }
+          .header{
+            background-color: black;
+            margin: 0px;
+            padding: 20PX;
+         }
+         a{
+            text-decoration: none;
+            color: white;
+         }
