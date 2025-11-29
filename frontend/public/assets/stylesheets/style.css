@@ -78,11 +78,10 @@
             background-color: black;
             margin: 0px;
             padding: 20PX;
+            margin-bottom: 8px;
          }
          a{
             text-decoration: none;
             color: white;
          }
-         .title{
-            margin: 0 auto;
-         }
+         
