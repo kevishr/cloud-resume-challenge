@@ -1,0 +1,65 @@
+html,body{
+            padding: 0;
+            margin: 0;
+            background-color: beige;
+        }
+        .edu-details{
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+            
+        }
+        .contents{
+            margin: 15px auto;
+            width: 50%;
+            background-color: white;
+            border-radius: 5px;
+            padding: 15px;
+        }
+        .title{
+            text-align: center;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            
+        }
+        .edu-title{
+            font-size: 20px;
+            margin-bottom: 5px;
+           
+        }
+        
+        .cert-ul{
+            list-style-type: none;
+            margin: 0px;
+            padding: 0%;
+            
+        }
+         .cert-li{
+            margin-bottom: 2px;
+         }
+         .cert-title{
+             font-size: 20px;
+            margin-bottom: 5px;
+           
+         }
+         .exp-title{
+            font-size: 20px;
+            margin-bottom: 5px;
+         }
+         .company{
+            font-size: 20px;
+            margin-bottom: 5px;
+         }
+         .job{
+            font-size: 15px;
+            margin-bottom: 5px;
+         }
+         
+         .task-li{
+            margin-bottom: 2px;
+         }
+
+         .skills-title{
+            font-size: 20px;
+            margin-bottom: 5px;
+         }
